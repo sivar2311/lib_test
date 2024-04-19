@@ -7,7 +7,7 @@
     ],
     "dependencies": [
       {
-        "AsyncWebServer" : "https://github.com/me-no-dev/ESPAsyncWebServer.git"
+        "external-repo" : "https://github.com/me-no-dev/ESPAsyncWebServer.git"
       }
     ]
   }
